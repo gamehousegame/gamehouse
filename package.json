@@ -1,0 +1,36 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Minkel",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "all": "0.0.0",
+    "discord.js": "^12.1.1",
+    "node-fetch": "^2.6.0",
+    "random-puppy": "^1.1.0",
+    "superagent": "^5.2.2",
+    "ytdl-core": "^3.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamehousegame/codeportaldiscordBOT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gamehousegame/codeportaldiscordBOT/issues"
+  },
+  "homepage": "https://github.com/gamehousegame/codeportaldiscordBOT#readme"
+}
